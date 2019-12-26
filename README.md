@@ -1,8 +1,8 @@
-# urLive_server
-Server of the Whale Extension 'UrLive', uses django python 
+# urLive_extension
+Front part of the Whale Extension 'UrLive', uses vanilla javscript 
 
 
-## urLive server code (django)
+## urLive extension code (javascript)
 ## Winner of 3rd place for the Whale Extension Contest 2019
 
 ### Link to the extension: <https://store.whale.naver.com/detail/ggjohpipgoocjmnkpleikjkljlimillm>
