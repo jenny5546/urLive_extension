@@ -1,7 +1,7 @@
-# urLive_extension
-Front part of the Whale Extension 'UrLive', using Vanllia javscript 
+# urLive 웨일 익스텐션 (프론트)
 
-## Winner of 3rd place for the Whale Extension Contest 2019
+
+## 웨일 확장앱 콘테스트 3등 수상작
 <img src="gitImageSrc/main.png">
 <img src="gitImageSrc/service-structure.png">
 <img src="gitImageSrc/ss1.png">
